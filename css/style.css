@@ -57,7 +57,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Allura');
 @import url('https://fonts.googleapis.com/css?family=Mr+De+Haviland');
-@import url('https://fonts.googleapis.com/css?family=ChosunM:300,300i,400,400i,700,700i,900,900i');
+/* @import url('https://fonts.googleapis.com/css?family=ChosunM:300,300i,400,400i,700,700i,900,900i'); */
 
 /* ================================================== */
 
@@ -211,10 +211,10 @@ header div#logo .logo-scroll {
 	     font-family: 'Standar'; /* 폰트 패밀리 이름 주기*/
 	     src: url('../fonts/Shutter Stone Standar.ttf'); /*폰트 파일 주소*/
 	  }
-/* @font-face { */
-/* 	     font-family: 'ChosunM'; 폰트 패밀리 이름 주기 */
-/* 	     src: url('../fonts/ChosunM.ttf'); 폰트 파일 주소 */
-/* 	  } 	    */
+@font-face {
+	     font-family: 'ChosunM'; 폰트 패밀리 이름 주기
+	     src: url('../fonts/ChosunM.ttf'); 폰트 파일 주소
+	  } 	   
 
 header div#logo h2 {
 	font-family: "Standar";
