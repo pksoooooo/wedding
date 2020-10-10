@@ -3878,7 +3878,7 @@ blockquote {
 	line-height: 1.6em;
 	color: #333;
 	background: #f8f8f8;
-	padding: 30px;
+/* 	padding: 30px; */
 }
 blockquote span {
 	display: block;
