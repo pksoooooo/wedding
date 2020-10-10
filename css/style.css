@@ -213,7 +213,7 @@ header div#logo .logo-scroll {
 	  }
 @font-face {
 	     font-family: 'ChosunM2'; 
-	     src: url('../fonts/ChosunM2.ttf'); 
+	     src: url('../fonts/ChosunM2.ttf') format('truetype');
 	  } 	   
 
 header div#logo h2 {
