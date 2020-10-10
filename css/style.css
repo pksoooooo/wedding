@@ -212,8 +212,8 @@ header div#logo .logo-scroll {
 	     src: url('../fonts/Shutter Stone Standar.ttf'); /*폰트 파일 주소*/
 	  }
 @font-face {
-	     font-family: 'ChosunM'; 폰트 패밀리 이름 주기
-	     src: url('../fonts/ChosunM.ttf'); 폰트 파일 주소
+	     font-family: 'ChosunM'; 
+	     src: url('../fonts/ChosunM.ttf'); 
 	  } 	   
 
 header div#logo h2 {
