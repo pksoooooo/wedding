@@ -214,7 +214,12 @@ header div#logo .logo-scroll {
 @font-face {
 	     font-family: 'ChosunM2'; 
 	     src: url('../fonts/ChosunM2.ttf') format('truetype');
-	  } 	   
+	  } 	
+@font-face {
+	     font-family: 'tvN'; 
+	     src: url('../fonts/tvN Enjoystories Light.ttf.ttf') format('truetype');
+	  } 	  
+	     
 
 header div#logo h2 {
 	font-family: "Standar";
@@ -6104,7 +6109,7 @@ a.btn-slider:hover {
 }
 blockquote.very-big {
 	border: none;
-	font-family: "ChosunM2";
+	font-family: "tvN";
 	text-align: center;
 	border: none;
 	font-size: 32px;
