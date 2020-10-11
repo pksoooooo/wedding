@@ -215,7 +215,7 @@ header div#logo .logo-scroll {
 	     font-family: 'ChosunM'; 
   			src: url('../fonts/ChosunM.eot?#iefix') format('embedded-opentype'), 
 		     url('../fonts/ChosunM.woff2') format('woff2'),
-		     url('../fonts/ChosunM.woff') format('woff'), 
+		     url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.1/ChosunSm.woff') format('woff'), 
 		     url('../fonts/ChosunM.ttf')  format('truetype'),
 		     url('../fonts/ChosunM.svg#svgFontName') format('svg');
 	  } 	
