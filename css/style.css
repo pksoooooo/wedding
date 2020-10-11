@@ -215,7 +215,7 @@ header div#logo .logo-scroll {
 	     font-family: 'ChosunM'; 
   			src: 
   			url('../fonts/ChosunSm.woff') format('woff'), 
-		     url('../fonts/ChosunNm.ttf')  format('truetype');
+		     url('../fonts/ChosuSm.ttf')  format('truetype');
 	  } 	
 @font-face {
 	     font-family: 'tvN'; 
