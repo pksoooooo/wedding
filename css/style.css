@@ -209,15 +209,20 @@ header div#logo .logo-scroll {
 }
 @font-face {
 	     font-family: 'Standar'; /* ��Ʈ �йи� �̸� �ֱ�*/
-	     src: font-url('../fonts/Shutter Stone Standar.ttf'); /*��Ʈ ���� �ּ�*/
+	     src: url('../fonts/Shutter Stone Standar.ttf'); /*��Ʈ ���� �ּ�*/
 	  }
 @font-face {
 	     font-family: 'ChosunM'; 
-	     src: font-url('../fonts/ChosunM.ttf') format('truetype');
+	     src: url('../fonts/ChosunM.ttf') format('truetype');
+  			src: url('../fonts/ChosunM.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		     url('../fonts/ChosunM.woff2') format('woff2'), /* Super Modern Browsers */
+		     url('../fonts/ChosunM.woff') format('woff'), /* Pretty Modern Browsers */
+		     url('../fonts/ChosunM.ttf')  format('truetype'), /* Safari, Android, iOS */
+		     url('../fonts/ChosunM.svg#svgFontName') format('svg'); /* Legacy iOS 
 	  } 	
 @font-face {
 	     font-family: 'tvN'; 
-	     src: font-url('../fonts/tvN Enjoystories Light.ttf') format('truetype');
+	     src: url('../fonts/tvN Enjoystories Light.ttf') format('truetype');
 	  } 	  
 	     
 
