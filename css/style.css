@@ -1992,7 +1992,7 @@ h2.deco span {
 h2.deco span:before, h2.deco span:after {
 	content: "";
 	position: absolute;
-	border-top: 1px solid #bbb;
+/* 	border-top: 1px solid #bbb; */
 	top: 10px;
 	width: 130px;
 }
