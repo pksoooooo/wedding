@@ -208,16 +208,16 @@ header div#logo .logo-scroll {
 	display: none;
 }
 @font-face {
-	     font-family: 'Standar'; /* ÆùÆ® ÆÐ¹Ð¸® ÀÌ¸§ ÁÖ±â*/
-	     src: url('../fonts/Shutter Stone Standar.ttf'); /*ÆùÆ® ÆÄÀÏ ÁÖ¼Ò*/
+	     font-family: 'Standar'; /* ï¿½ï¿½Æ® ï¿½Ð¹Ð¸ï¿½ ï¿½Ì¸ï¿½ ï¿½Ö±ï¿½*/
+	     src: font-url('../fonts/Shutter Stone Standar.ttf'); /*ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½*/
 	  }
 @font-face {
 	     font-family: 'ChosunM'; 
-	     src: url('../fonts/ChosunM.ttf') format('truetype');
+	     src: font-url('../fonts/ChosunM.ttf') format('truetype');
 	  } 	
 @font-face {
 	     font-family: 'tvN'; 
-	     src: url('../fonts/tvN Enjoystories Light.ttf') format('truetype');
+	     src: font-url('../fonts/tvN Enjoystories Light.ttf') format('truetype');
 	  } 	  
 	     
 
