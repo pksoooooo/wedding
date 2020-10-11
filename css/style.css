@@ -208,17 +208,16 @@ header div#logo .logo-scroll {
 	display: none;
 }
 @font-face {
-	     font-family: 'Standar'; /* ��Ʈ �йи� �̸� �ֱ�*/
-	     src: url('../fonts/Shutter Stone Standar.ttf'); /*��Ʈ ���� �ּ�*/
+	     font-family: 'Standar'; 
+	     src: url('../fonts/Shutter Stone Standar.ttf'); 
 	  }
 @font-face {
 	     font-family: 'ChosunM'; 
-	     src: url('../fonts/ChosunM.ttf') format('truetype');
-  			src: url('../fonts/ChosunM.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-		     url('../fonts/ChosunM.woff2') format('woff2'), /* Super Modern Browsers */
-		     url('../fonts/ChosunM.woff') format('woff'), /* Pretty Modern Browsers */
-		     url('../fonts/ChosunM.ttf')  format('truetype'), /* Safari, Android, iOS */
-		     url('../fonts/ChosunM.svg#svgFontName') format('svg'); /* Legacy iOS 
+  			src: url('../fonts/ChosunM.eot?#iefix') format('embedded-opentype'), 
+		     url('../fonts/ChosunM.woff2') format('woff2'),
+		     url('../fonts/ChosunM.woff') format('woff'), 
+		     url('../fonts/ChosunM.ttf')  format('truetype'),
+		     url('../fonts/ChosunM.svg#svgFontName') format('svg');
 	  } 	
 @font-face {
 	     font-family: 'tvN'; 
