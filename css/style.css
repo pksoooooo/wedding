@@ -4910,14 +4910,14 @@ p.intro {
 .owl-arrow .next {
 	right: 0;
 }
-.owl-arrow .prev:before, .owl-arrow .next:before {
-	font-family: "FontAwesome";
-	content: '\f177';
-	color: #2;
-	padding: 20px;
-	font-size: 32px;
-	display: block;
-}
+/* .owl-arrow .prev:before, .owl-arrow .next:before { */
+/* 	font-family: "FontAwesome"; */
+/* 	content: '\f177'; */
+/* 	color: #2; */
+/* 	padding: 20px; */
+/* 	font-size: 32px; */
+/* 	display: block; */
+/* } */
 .owl-arrow .next:before {
 	content: '\f178';
 }
