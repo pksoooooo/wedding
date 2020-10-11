@@ -213,11 +213,9 @@ header div#logo .logo-scroll {
 	  }
 @font-face {
 	     font-family: 'ChosunM'; 
-  			src: url('../fonts/ChosunM.eot?#iefix') format('embedded-opentype'), 
-		     url('../fonts/ChosunM.woff2') format('woff2'),
-		     url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.1/ChosunSm.woff') format('woff'), 
-		     url('../fonts/ChosunM.ttf')  format('truetype'),
-		     url('../fonts/ChosunM.svg#svgFontName') format('svg');
+  			src: 
+  			url('../fonts/ChosunSm.woff') format('woff'), 
+		     url('../fonts/ChosunNm.ttf')  format('truetype');
 	  } 	
 @font-face {
 	     font-family: 'tvN'; 
