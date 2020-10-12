@@ -1987,7 +1987,7 @@ h2.deco {
 h2.deco span {
 	display: inline-block;
 	position: relative;
-	font-weight: bold;
+	font-weight: 900;
 	font-size: 25px;
 }
 h2.deco span:before, h2.deco span:after {
