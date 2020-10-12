@@ -1,4 +1,4 @@
-/* default color: #BACEC5  */
+/* default color: #aac1b3  */
 .bg-color,
 section.bg-color,
 section.call-to-action,
@@ -60,7 +60,7 @@ span.overlay,
 .social-icons-sm i:hover,
 .overlay-v i:before
 {
-	background-color:#BACEC5 ;
+	background-color:#aac1b3 ;
 }
 
 .feature-box i,
@@ -114,7 +114,7 @@ h2.hs1 span,
 header div#logo h2 span,
 #menu-btn
 {
-	color:#BACEC5
+	color:#aac1b3
 }
 
 .feature-box i,
@@ -136,7 +136,7 @@ header div#logo h2 span,
 .box-border
 {
 
-	border-color:#BACEC5 ;
+	border-color:#aac1b3 ;
 }
 
 .box-fx .inner,
@@ -153,34 +153,34 @@ header div#logo h2 span,
 .text-light .separator span:after ,
 .form-underline input[type=text]:focus, .form-underline textarea:focus, .form-underline input[type=email]:focus, .form-underline select:focus
 {
-	border-bottom-color:#BACEC5 ;
+	border-bottom-color:#aac1b3 ;
 }
 
 .arrow-down,
 .preloader1{
-	border-top-color:#BACEC5 ;
+	border-top-color:#aac1b3 ;
 }
 
 .callbacks_nav {
-	background-color:#BACEC5 ;
+	background-color:#aac1b3 ;
 }
 
 
 .de_tab .de_nav li span {
-border-top: 3px solid #BACEC5 ;
+border-top: 3px solid #aac1b3 ;
 }
 
 .feature-box-big-icon i:after {
-border-color: #BACEC5  transparent; /*same colour as the lower of the bubble's gradient*/
+border-color: #aac1b3  transparent; /*same colour as the lower of the bubble's gradient*/
 }
 
 .de_review li.active img{
-	border:solid 4px #BACEC5 ;
+	border:solid 4px #aac1b3 ;
 }
 
 
 blockquote{
-border-left-color:#BACEC5 ;
+border-left-color:#aac1b3 ;
 }
 
 
